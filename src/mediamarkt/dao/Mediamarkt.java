@@ -10,9 +10,9 @@ public interface Mediamarkt {
    int quantity();
    double totalHdd();
 
-    void printComputers();
+    void printComputers(); // изменнения для git hub
 
-
+    // lkz git
 }
 
 
